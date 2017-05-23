@@ -72,3 +72,6 @@ deploy:
 
 # Disqus
 disqus_shortname: pierre-noel
+
+# Google Analytics
+google_analytics: UA-57152347-2
