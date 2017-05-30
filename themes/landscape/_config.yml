@@ -1,7 +1,8 @@
 # Header
 menu:
-  Home: /
+  Accueil: /
   Archives: /archives
+  J'aime...: /jaime
 rss: / #atom.xml
 
 # Content
@@ -28,7 +29,7 @@ archive_type: 'monthly'
 show_count: false
 
 # Miscellaneous
-google_analytics:
+google_analytics: UA-57152347-2
 favicon: /favicon.png
 twitter:
 google_plus:
