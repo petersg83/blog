@@ -3,7 +3,7 @@ menu:
   Accueil: /
   Archives: /archives
   J'aime...: /jaime
-rss: / #atom.xml
+# rss: / #atom.xml
 
 # Content
 excerpt_link: Read More

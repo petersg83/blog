@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-hexo server -p 8081
+hexo server -i 127.0.0.1 -p 8081
