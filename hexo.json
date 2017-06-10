@@ -1,0 +1,13 @@
+{
+  "apps" : [{
+    "name"        : "blog",
+    "script"      : "./hexo.sh",
+    "watch"       : ["source", "themes", "_config.yml"],
+    "env": {
+      "NODE_ENV": "development"
+    },
+    "env_production" : {
+       "NODE_ENV": "production"
+    }
+  }]
+}
